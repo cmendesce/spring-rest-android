@@ -1,10 +1,11 @@
-package br.com.cmendesce.springrest;
+package br.com.cmendesce.springrest.ui.activities;
 
 import org.springframework.http.converter.json.MappingJacksonHttpMessageConverter;
 import org.springframework.web.client.RestTemplate;
 
 import android.app.ListActivity;
 import android.os.Bundle;
+import br.com.cmendesce.springrest.R;
 import br.com.cmendesce.springrest.models.Contato;
 import br.com.cmendesce.springrest.ui.adapters.ContatoAdapter;
 

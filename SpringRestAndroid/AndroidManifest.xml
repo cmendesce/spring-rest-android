@@ -16,7 +16,7 @@
         android:label="@string/app_name"
         android:theme="@style/AppTheme" >
         <activity
-            android:name="br.com.cmendesce.springrest.ContatosActivity"
+            android:name="br.com.cmendesce.springrest.ui.activities.ContatosActivity"
             android:label="@string/app_name" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
